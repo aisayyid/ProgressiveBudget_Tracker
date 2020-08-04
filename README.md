@@ -16,7 +16,7 @@
   ## License
   MIT
   ## Demo
- ![](images/)
+ ![](images/Budget_Tracker.gif)
   
   ## Deployed Link
   https://progbudget-tracker.herokuapp.com/
